@@ -12,3 +12,4 @@ and open browser and console
 ###Build
 	./build.sh
 
+<a href="http://sparrowhome.twbbs.org/wordpress/?p=568">blog</a>
